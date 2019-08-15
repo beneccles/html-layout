@@ -1,0 +1,80 @@
+.header {
+    border-style: solid;
+    border-color: black;
+    height: 20vh;
+}
+
+.first-shape{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    float: left;
+    height: 14vh;
+    width: 5%;
+    background-color: purple;
+}
+
+.second-shape{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    float: left;
+    height: 16vh;
+    width: 20%;
+    background-color: green;
+}
+
+.third-shape{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    float: left;
+    height: 16vh;
+    width: 10%;
+    border-radius: 60%;
+    background-color: lightblue;
+}
+
+.center-body{
+    margin-top: 20px;
+    border-style: dotted;
+    border-color: black;
+    height: 20vh;
+    padding-top: 20px;
+
+}
+
+.box{
+    height: 15vh;
+    width: 90%;
+    background-color: lightyellow;
+    float: center;
+    box-shadow: 5px 5px;
+    border-style: solid;
+    border-color: lightgray;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.footer{
+    margin-top: 20px;
+    box-shadow: 5px 10px;
+    border-style: solid;
+    border-color: lightgray;
+    height:20vh;
+    width: 50vh;
+    display: inline-block;
+    text-align: center;
+}
+
+.center-content{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    padding: 40px;
+}

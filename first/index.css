@@ -20,13 +20,11 @@
 
 .footer{
 width: auto;
-height: 5rem;
+height: 10vh;
 background: black;
-clear: both;
-margin-left: 10%;
-margin-right: 10%;
 }
 
 .center-body{
-    
+    margin: 20px, 20px, 20px, 20px;
+    height: 713px;
 }
