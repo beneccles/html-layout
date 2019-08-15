@@ -1,0 +1,57 @@
+.header{
+    height: 15vh;
+    width: 100%;
+    background-color:lightgray;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 30px;
+}
+
+.header-menu{
+    height: 10vh;
+    width: 12%;
+    background-color: blue;
+    box-sizing: content-box;
+    margin: 15px 10px auto;
+    
+
+}
+
+.box1{
+    height: 25vh;
+    width: 100%;
+    background-color:white;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.box2{
+    height: 15vh;
+    width: 100%;
+    background-color:blue;
+}
+
+.box3{
+    height: 15vh;
+    width: 100%;
+    background-color:teal;
+}
+
+.box4{
+    height: 15vh;
+    width: 100%;
+    background-color:lime;
+}
+
+.box5{
+    height: 15vh;
+    width: 100%;
+    background-color:goldenrod;
+}
+
+.align-text{
+    font-size:24px;
+    
+}
